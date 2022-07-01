@@ -18,7 +18,7 @@
 #   There is Remote Execution is Ansible as well as Local Execution
 #     For cloud there is API & Target Machine (Servers) there is SSH.
 #
-#
+#Inventory file is used to control Nodes.
 #
 #
 #
