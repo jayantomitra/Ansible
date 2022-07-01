@@ -1,0 +1,27 @@
+# Ansible is the most simplest Automation tools out there.
+#
+#
+#Terraform has become a CLOUD Automation tool
+#
+#use cases of Ansible
+#   Automation
+#   Change Management
+#   Provisioning
+#   Orchestration
+#
+#   Can be integrated with other tools such as Jenkins
+#
+# Ansible is Agentless
+#   
+# Ansible uses YAML & Easy to Read & Write
+#
+#   There is Remote Execution is Ansible as well as Local Execution
+#     For cloud there is API & Target Machine (Servers) there is SSH.
+#
+#
+#
+#
+#
+#
+#
+#
