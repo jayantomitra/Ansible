@@ -1,0 +1,27 @@
+# YAML
+
+yaml works by identifying levels after ':'
+
+############ Example ##############
+
+---
+DevOps:
+ - AWS
+ - Jenkins
+ - Python
+ - Ansible
+ 
+ ---
+ 
+#DevOps = key & AWS = value
+
+ansible_facts :
+  python : /usr/bin/python
+  
+  
+# Ansible input is in YAML format & its output is in JSON format
+#if there is any change in state JSON outout for the same will be true
+
+"changed": true,
+#
+# 
