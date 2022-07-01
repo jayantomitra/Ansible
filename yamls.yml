@@ -24,4 +24,7 @@ ansible_facts :
 
 "changed": true,
 #
-# 
+# configuration management tools are IDEMPOTENT in nature
+ 
+ ANsible Playbooks are written in YAML format
+ 
