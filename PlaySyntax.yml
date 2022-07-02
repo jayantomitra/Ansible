@@ -1,0 +1,21 @@
+#ansible syntax
+
+
+---
+-Play1: xyzabc
+ tasks:
+  - name: Install xyz                                     #...(task1)
+    yum:
+      name : abc
+      state: latest
+  - name : Deploy pqr                                     #...(task2)
+    copy:
+      src: folder/path/file.pqr
+      dest: /path/to/destination
+   
+ -Play2: dbsrvr
+  tasks:
+  - name: Install DB                                      #...(task1)
+    yum:
+      name: db
+      state: latest
