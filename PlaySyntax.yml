@@ -19,3 +19,8 @@
     yum:
       name: db
       state: latest
+      
+      
+      
+#!/bin/bash: $ ansible-playbook filename.yml --syntax-check 
+
