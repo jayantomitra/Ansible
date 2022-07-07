@@ -1,2 +1,5 @@
 # basic commands
 ansible_playbook name_of_file.yaml --syntax-check
+
+# dry run of a playbook
+ansible-playbook -i inventory web_db.yaml -C
